@@ -32,3 +32,17 @@
 Есть несколько вариантов подключения:
 1. Пакетный менеджер [npm](https://npmjs.com);
 1. CDN.
+
+# Twitter Bootstrap
+
+![Bootstrap logo](https://i.imgur.com/qhtywl2.png)
+
+**Twitter Bootstrap** - популярный набор компонентов для фронтенд-разработки.
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
